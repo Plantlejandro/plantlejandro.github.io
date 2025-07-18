@@ -16,6 +16,9 @@ About me
 I had the fortune to be born and raised in Colombia, a country filled with lush, green
 forests and one of the most biodiverse regions of the world. I remember going for long hikes with my siblings and being amazed by the forests, the dense mist that condensed in the bark of trees, the huge heart-shaped leaves (that I now know belong to the genus _Xanthosoma_) of the understory, and an almost infinite color palette of flowers. This appreciation for nature, passed down to me by my mom, left a big impression on me and became one of the main reasons I pursued a bachelor's degree in biology at the Universidad EAFIT.
 
+<img src="/images/about_Sonson2.jpg" alt="Páramo de Sonsón, Antioquia, Colombia. " width="300" style="float:right; margin:10px;" />
+
+
 During the third year of my undergrad, I took a paleontology class and was immediately hooked. I did not even know there were such things as fossil plants! I was attracted to the weirdness of fossils and thinking in timescales that my brain still struggles to comprehend.
 
 For my undergrad thesis, and as a Short Term Fellow at the Smithsonian Tropical Research Institute, I studied the feeding traces that insects left on some of the earliest Neotropical rainforests; the closest we can get to reconstructing the ecology of plant-insect interactions 58 Ma in the past. I was mentored by Dr. [Mónica Carvalho](https://lsa.umich.edu/paleontology/people/curators/monica-carvalho.html)
