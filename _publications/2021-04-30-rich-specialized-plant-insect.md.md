@@ -2,7 +2,7 @@
 title: "Rich and specialized plant-insect associations in a middle–late Paleocene (58–60 Ma) Neotropical rainforest (Bogotá Formation, Colombia)"
 authors: L. Alejandro Giraldo, Conrad C. Labandeira, Fabiany Herrera, Mónica R. Carvalho
 collection: publications
-category: manuscripts
+category: Journal Articles
 permalink: /publication/plant-insect-bogota-paleocene
 date: 2021-04-30
 venue: 'Ameghiniana'

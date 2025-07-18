@@ -2,7 +2,7 @@
 title: "Reconstructing the Botanical Past: Art and Paleobotany"
 authors: "Edward J. Spagnuolo, L. Alejandro Giraldo, Mario Coiro, Sussanah Lydon"
 collection: publications
-category: manuscripts
+category: Journal Articles
 permalink: /publication/art-paleobotany
 date: 2024-12-19
 venue: 'Plant Science Bulletin'
