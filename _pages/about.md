@@ -14,7 +14,7 @@ Through field and museum-based research across the Americas, Australia, and Sout
 About me
 ======
 I had the fortune to be born and raised in Colombia, a country filled with lush, green
-forests and one of the most biodiverse regions of the world. I remember going for long hikes with my siblings and being amazed by the forests, the dense mist that condensed in the bark of trees, the huge heart-shaped leaves (that I now know belong to the genus _Xanthosoma_) of the understory, and an almost infinite color palette of flowers. This appreciation for nature, passed down to me by my mom, left a big impression on me and became one of the main reasons I pursued a bachelor's degree in biology at the Universidad EAFIT.
+forests and one of the most biodiverse regions of the world. I remember going for long hikes with my siblings and being amazed by the forests, the dense mist that condensed in the bark of trees, the huge heart-shaped leaves (that I now know belong to the genus _Xanthosoma_) of the understory, and flowers and fruits of all colors. This appreciation for nature, passed down to me by my mom, left a big impression on me and became one of the main reasons I pursued a bachelor's degree in biology at the Universidad EAFIT.
 
 <div style="text-align: center;">
   <img src="/images/Sonson2.jpg" alt="Description" style="width: 100%; max-width: 100%; height: auto; display: block; margin: 1em 0;">
