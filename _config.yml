@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Home"
+title                    : "L. Alejandro Giraldo"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "PhD candidate at The Pennsylvania State University"
@@ -23,7 +23,7 @@ repository               : "plantlejandro/plantlejandro.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "L. Alejandro Giraldo"
+  name             : "L. Alejandro (Alejo) Giraldo"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate at the Pennsylvania State University (Peter Wilf's lab)"
   location         : "Earth"
