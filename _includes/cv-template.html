@@ -210,12 +210,12 @@
   </div>
   {% endif %}
   
-  {% if cv.portfolio.size > 0 %}
-  <!-- Portfolio -->
+  {% if cv.fieldwork.size > 0 %}
+  <!-- fieldwork -->
   <div class="cv-section">
-    <h2>Portfolio</h2>
+    <h2>fieldwork</h2>
     <ul class="cv-list">
-      {% for item in cv.portfolio %}
+      {% for item in cv.fieldwork %}
       <li class="cv-item">
         <div class="cv-item-header">
           <div class="cv-item-title">{{ item.name }}</div>
