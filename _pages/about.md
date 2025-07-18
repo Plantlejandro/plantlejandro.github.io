@@ -7,15 +7,28 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a fieldwork, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Welcome! I’m Alejo, a Ph.D. candidate in Geosciences at The Pennsylvania State University working with Dr. [Peter Wilf](https://www.geosc.psu.edu/directory/peter-wilf/). My research explores the evolution and assembly of rainforests, with a focus on paleobotany and plant-insect interactions. 
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Through field and museum-based research across the Americas, Australia, and Southeast Asia, I investigate fossil floras and insect herbivory to uncover deep-time biogeographic connections. I’m passionate about sharing science through teaching, mentorship, and outreach.
 
 About me
 ======
-Welcome! I’m Alejo, a Ph.D. candidate in Geosciences at The Pennsylvania State University working under the guidance of [Peter Wilf](https://pdw3.myportfolio.com/). My research explores the evolution and assembly of rainforests, with a focus on paleobotany and plant-insect interactions. 
+I had the fortune to be born and raised in Colombia, a country filled with lush, green
+forests that —as I would learn later— constitute one of the most biodiverse regions of
+the world. I remember going for long hikes with my siblings and being amazed by the forests,
+the dense mist that condensed in the bark of trees, the huge heart-shaped leaves (that I now know belong to the genus _Xanthosoma_) of the understory, and an almost infinite color palette of flowers. This appreciation for nature, passed down to me by my mom, left a big impression on
+me and became one of the main reasons I pursued a bachelor's degree in biology at the Universidad EAFIT.
 
-Through field and museum-based research across the Americas, Australia, and Southeast Asia, I investigate fossil floras and insect herbivory to uncover deep-time biogeographic connections. I’m passionate about sharing science through teaching, mentorship, and outreach.
+During the third year of my undergrad, I took a paleontology class and was immediately hooked. I did not even know there were such things as fossil plants! I was attracted to the weirdness of fossils and thinking in timescales that my brain still struggles to comprehend.
+
+For my undergrad thesis, and as a Short Term Fellow at the Smithsonian Tropical Research Institute, I studied the feeding traces that insects left on some of the earliest Neotropical rainforests; the closest we can get to reconstructing the ecology of plant-insect interactions 58 Ma in the past. I was mentored by Dr. [Mónica Carvalho](https://lsa.umich.edu/paleontology/people/curators/monica-carvalho.html)
+
+I then moved to the Pennsylvania State University to conduct a M.S. with Dr. [Peter Wilf](https://www.geosc.psu.edu/directory/peter-wilf), testing whether the insect herbivore traces observed in 52 Ma _Eucalyptus_ fossils from Patagonia coincide with those observed in extant gum trees.
+
+I stayed at Penn State for my Ph.D., and am currently working on describing plant fossils from the Eocene Anglesea flora of southeastern Australia, understanding the assembly of Australian rainforests through time, and testing the validity of morphological measurements of stomatal complexes to estimate humidity in deep time.
+
+Check my publications [here](/_publications/)
+
 
 <!--
 Getting started
