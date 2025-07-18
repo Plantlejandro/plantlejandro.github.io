@@ -32,7 +32,7 @@ I then moved to the Pennsylvania State University to conduct a M.S. with Dr. [Pe
 
 I stayed at Penn State for my Ph.D., and am currently working on describing plant fossils from the Eocene Anglesea flora of southeastern Australia, understanding the assembly of Australian rainforests through time, and testing the validity of morphological measurements of stomatal complexes to estimate humidity in deep time.
 
-Check my publications [here](/_publications/)
+Check my publications [here](/publications/)
 
 
 <!--
