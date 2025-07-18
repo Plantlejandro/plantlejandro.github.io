@@ -18,7 +18,8 @@ forests and one of the most biodiverse regions of the world. I remember going fo
 
 <div style="text-align: center;">
   <img src="/images/Sonson2.jpg" alt="Description" style="width: 100%; max-width: 100%; height: auto; display: block; margin: 1em 0;">
-  <div style="font-size: 0.7em; color: #888888; margin-top: 0.2em;">Páramo de Sonsón, Antioquia, Colombia.</div>
+  <div style="font-size: 0.7em; color: #888888; margin-top: 0;">Páramo de Sonsón, Antioquia, Colombia.</div>
+  <br>
 </div>
 
 
