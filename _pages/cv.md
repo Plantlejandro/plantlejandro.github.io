@@ -9,11 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
----
-permalink: /cv/
-title: "CV"
----
-
 # L. Alejandro Giraldo
 
 **Ph.D. Candidate**  
